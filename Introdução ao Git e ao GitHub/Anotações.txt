@@ -1,0 +1,10 @@
+Link para Dowload do Git: https://git-scm.com/download/win	
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+Comandos basicos para o primeiro Commit:
+
+git init
+git add .
+git commit -m "Mensagem explicativa"
+git branch -M main
+git remote add origin git@github.com:seuusuario/seurepositorio.git
+git push -u origin main
